@@ -18,12 +18,12 @@ organizations:
   url: "http://www.icmol.es/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: phD student at Universitat de Valencia
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Photovoltaic devices
+- Perovskites and other new materials
+- Computing
 
 education:
   courses:
@@ -44,16 +44,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:jorge.avila@uv.es'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/JorgeAvila_G
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.es/citations?user=hbXY2DoAAAAJ&hl=es
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Jorge_Avila2
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/JorgeAvilaG
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hi I'm Jorge!  :smile: I discovered in Valencia the word of nanoscience where I did a Master and then I started my PhD about photovoltaic devices in the group of Henk Bolink. I am fascinated about new renevable energy sources and interested in computer science. I enjoy so much competitive programming challenges!!
