@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = ""
   description = """
-  Taught basic and inorganic chemistry lab courses for degree in chemistry.
+  Basic and inorganic chemistry lab courses in the degree in chemistry.
   """
   [[experience]]
   title = "Visiting Student"
@@ -35,6 +35,6 @@ date_format = "Jan 2006"
   date_start = "2018-06-01"
   date_end = "2018-09-01"
   description = """
-  Temporal stay in the Stefaan de Wolf's group. Developing perovskite/silicon tandems and optical analysis.
+  Temporal stay in the Stefaan de Wolf's group. Developing perovskite/silicon tandems and performing optical analysis.
   """
 +++

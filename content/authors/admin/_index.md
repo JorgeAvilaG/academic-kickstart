@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Nanoscience and Nanotecnology
+  - course: PhD in Nanoscience and Nanotechnology
     institution: Universitat de Valencia
     year: Ongoing
-  - course: MSc in Nanoscience and Nanotecnology
+  - course: MSc in Nanoscience and Nanotechnology
     institution: Universitat de Valencia
     year: 2016
   - course: BSc in Chemistry
