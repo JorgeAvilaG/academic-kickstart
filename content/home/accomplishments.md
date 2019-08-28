@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
@@ -101,8 +101,4 @@ date_format = "Jan 2006"
   description = "A practical programming course for office workers, academics, and administrators who want to improve their productivity."
 
 
-
-  
-
-#Añadir curso de python udacy?
 +++
