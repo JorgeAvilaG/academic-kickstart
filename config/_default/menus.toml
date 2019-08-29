@@ -18,6 +18,11 @@
   url = "#featured"
   weight = 20
 
+  [[main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 40
+
 #[[main]]
 #  name = "Contact"
 #  url = "#contact"
