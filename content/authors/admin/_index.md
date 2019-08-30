@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Hi I'm Jorge!  :smile: I discovered in Valencia the world of nanoscience where I did a Master and then I started my PhD about photovoltaic devices in the group of Henk Bolink. I am fascinated about new renevable energy sources and interested in computer science. I enjoy so much competitive programming challenges!!
+Hi I'm Jorge!  :smile: I discovered in Valencia the world of nanoscience where I did a Master and then I started my PhD about photovoltaic devices in the group of Henk Bolink. I am fascinated about new renewable energy sources and interested in computer science. I enjoy so much competitive programming challenges!!
