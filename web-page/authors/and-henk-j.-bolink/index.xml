@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>and Henk J. Bolink | Jorge Ávila</title>
+    <link>https://www.uv.es/jorpago/authors/and-henk-j.-bolink/</link>
+      <atom:link href="https://www.uv.es/jorpago/authors/and-henk-j.-bolink/index.xml" rel="self" type="application/rss+xml" />
+    <description>and Henk J. Bolink</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.uv.es/jorpago/img/icon-192.png</url>
+      <title>and Henk J. Bolink</title>
+      <link>https://www.uv.es/jorpago/authors/and-henk-j.-bolink/</link>
+    </image>
+    
+    <item>
+      <title>High voltage vacuum-deposited CH3NH3PbI3–CH3NH3PbI3 tandem solar cells</title>
+      <link>https://www.uv.es/jorpago/talk/esmolna-2019/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.uv.es/jorpago/talk/esmolna-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

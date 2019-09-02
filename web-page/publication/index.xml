@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Jorge Ávila</title>
+    <link>https://www.uv.es/jorpago/publication/</link>
+      <atom:link href="https://www.uv.es/jorpago/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.uv.es/jorpago/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://www.uv.es/jorpago/publication/</link>
+    </image>
+    
+    <item>
+      <title>Consistent Device Simulation Model Describing Perovskite Solar Cells in Steady-State, Transient, and Frequency Domain</title>
+      <link>https://www.uv.es/jorpago/publication/neukom-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.uv.es/jorpago/publication/neukom-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAPb0.5Sn0.5I3: A Narrow Bandgap Perovskite Synthesized through Evaporation Methods for Solar Cell Applications</title>
+      <link>https://www.uv.es/jorpago/publication/doi-10-1002-solr-201900283/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.uv.es/jorpago/publication/doi-10-1002-solr-201900283/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electrothermal Feedback and Absorption-Induced Open-Circuit-Voltage Turnover in Solar Cells</title>
+      <link>https://www.uv.es/jorpago/publication/phys-rev-applied-9-051003/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.uv.es/jorpago/publication/phys-rev-applied-9-051003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can we use time-resolved measurements to get steady-state transport data for halide perovskites?</title>
+      <link>https://www.uv.es/jorpago/publication/levine-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.uv.es/jorpago/publication/levine-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High voltage vacuum-deposited CH3NH3PbI3–CH3NH3PbI3 tandem solar cells</title>
+      <link>https://www.uv.es/jorpago/publication/avila-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.uv.es/jorpago/publication/avila-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of the use of sterically congested Ir(iii) complexes on the performance of light-emitting electrochemical cells</title>
+      <link>https://www.uv.es/jorpago/publication/c-8-tc-01130-c/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.uv.es/jorpago/publication/c-8-tc-01130-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of doped charge transport layers on efficient perovskite solar cells</title>
+      <link>https://www.uv.es/jorpago/publication/c-8-se-00218-e/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.uv.es/jorpago/publication/c-8-se-00218-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anionic Cyclometalated Iridium(III) Complexes with a Bis-Tetrazolate Ancillary Ligand for Light-Emitting Electrochemical Cells</title>
+      <link>https://www.uv.es/jorpago/publication/matteucci-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.uv.es/jorpago/publication/matteucci-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recombination in Perovskite Solar Cells: Significance of Grain Boundaries, Interface Traps, and Defect Ions</title>
+      <link>https://www.uv.es/jorpago/publication/sherkar-2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.uv.es/jorpago/publication/sherkar-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient wide band gap double cation – double halide perovskite solar cells</title>
+      <link>https://www.uv.es/jorpago/publication/c-6-ta-10727-c/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.uv.es/jorpago/publication/c-6-ta-10727-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vapor-Deposited Perovskites: The Route to High-Performance Solar Cell Production?</title>
+      <link>https://www.uv.es/jorpago/publication/avila-2017431/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.uv.es/jorpago/publication/avila-2017431/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of mobile ions on the electroluminescence characteristics of methylammonium lead iodide perovskite diodes</title>
+      <link>https://www.uv.es/jorpago/publication/c-6-ta-06854-e/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.uv.es/jorpago/publication/c-6-ta-06854-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantification of spatial inhomogeneity in perovskite solar cells by hyperspectral luminescence imaging</title>
+      <link>https://www.uv.es/jorpago/publication/c-6-ee-00462-h/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.uv.es/jorpago/publication/c-6-ee-00462-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trap-Assisted Non-radiative Recombination in Organic – Inorganic Perovskite Solar Cells</title>
+      <link>https://www.uv.es/jorpago/publication/wetzelaer-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.uv.es/jorpago/publication/wetzelaer-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

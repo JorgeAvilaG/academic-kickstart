@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Achintya Bera | Jorge Ávila</title>
+    <link>https://www.uv.es/jorpago/authors/achintya-bera/</link>
+      <atom:link href="https://www.uv.es/jorpago/authors/achintya-bera/index.xml" rel="self" type="application/rss+xml" />
+    <description>Achintya Bera</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.uv.es/jorpago/img/icon-192.png</url>
+      <title>Achintya Bera</title>
+      <link>https://www.uv.es/jorpago/authors/achintya-bera/</link>
+    </image>
+    
+    <item>
+      <title>Can we use time-resolved measurements to get steady-state transport data for halide perovskites?</title>
+      <link>https://www.uv.es/jorpago/publication/levine-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.uv.es/jorpago/publication/levine-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
