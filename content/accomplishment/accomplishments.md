@@ -93,7 +93,7 @@ date_format = "Jan 2006"
   [[item]]
   organization = "Udemy"
   organization_url = "https://www.udemy.com/"
-  title = " Automate the Boring Stuff with Python Programming"
+  title = "Automate the Boring Stuff with Python Programming"
   url = ""
   certificate_url = "https://www.udemy.com/certificate/UC-K5HV46JK/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email"
   date_start = "2019-05-15"
