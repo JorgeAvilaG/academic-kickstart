@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "3D Printing"
-summary: "3D designs"
+summary: "Designs for 3D printing"
 authors: [Jorge Ávila]
 tags: []
 categories: []
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/JorgeAvilaG/3D-printing-design"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -39,4 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-[//]: # (3D printing have been shown as a incredible useful tool for my research activities. I have been using mainly OPENSCAD and BLABLA while I finnaly have been using blabla. You can find in the github repository different pieces that I have design and the description about for what are they for. Who knows maybe you find then useful and inspiractional. I need to add the url to the git hub repository with my 3D designs.)
+3D printing have been shown as a incredible useful tool for my research activities. I have been using mainly OPENSCAD and freeCAD for my designs. You can find in the [github repository](https://github.com/JorgeAvilaG/3D-printing-design) some designs I have made.
