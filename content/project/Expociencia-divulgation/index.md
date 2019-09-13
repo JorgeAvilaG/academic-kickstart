@@ -48,6 +48,7 @@ Divulgation have appealed me since a very early age. Some of my first activities
 Nowadays, I continue participating in  divulgation projects. I have been collaborating  in "Expociencia" since the beginning of my master studies, around 2015. Expociencia is the open day in the Parc Científic of the Universitat de Valencia, It is celebrated each year on May. During this day scientists from the institute prepare more than 100 different activities. We show our installations and the work and research that we develop through experiments and performances, talks and tours to be enjoy by youngh students, families and everyone.
 You can find some information about activities in which I have been participating [here](https://minipuntosdeciencia.tumblr.com/ 'Minipuntos de Ciencia').
 
+![activity photo](featured2.jpg)
 ![activity poster example](Tintas invisibles.jpg)
 
 **Example activity poster**
