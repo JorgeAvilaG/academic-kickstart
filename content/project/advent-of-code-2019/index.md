@@ -6,7 +6,7 @@ summary: "Python scripts with my solutions for the 2017 advent of code problems"
 authors: [Jorge Ávila]
 tags: []
 categories: []
-date: 2020-08-01T00:00:00+00:00
+date: 2019-08-01T00:00:00+00:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
