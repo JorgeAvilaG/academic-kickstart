@@ -39,9 +39,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
 Divulgation have appealed me since a very early age. Some of my first activities are from before my university studies, we were a group of friends that really enjoy developing divulgation projects and we got the first position in a national competition in Spain two consecutive years! It was in 2009 and 2010. The projects were related with mathematics, I remember the first project in 2009 with which we explained the most efficient way to tie shoelaces using grid geometry. In the second year we developed a board game with which you could learn awesome curiosities from the integers to fractal images.
+![taza](taza_expociencia_2.jpg)
 <div style="width:33%; margin:0 auto;">
-![](taza_expociencia_2.jpg)
+    ![taza](taza_expociencia_2.jpg)
 </div>
 
 
@@ -49,8 +51,7 @@ Nowadays, I continue participating in  divulgation projects. I have been collabo
 You can find some information about activities in which I have been participating [here](https://minipuntosdeciencia.tumblr.com/ 'Minipuntos de Ciencia').
 
 ![activity photo](featured2.jpg)
-![activity poster example](Tintas invisibles.jpg)
+![activity poster example](Tintas-invisibles.jpg)
 
 **Example activity poster**
 
-(Sorry these documents will be mainly in spanish)

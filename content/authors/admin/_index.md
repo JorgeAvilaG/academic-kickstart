@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: phD Student Material Science
+role: Doctor in Material Science and Nanotechnology
 
 # Organizations/Affiliations
 organizations:
-- name: ICMol Universitat de Valencia
-  url: "http://www.icmol.es/"
+- name: #ICMol Universitat de Valencia
+  url:  #"http://www.icmol.es/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: phD student at Universitat de Valencia
+bio: Doctor in Material Science and Nanotechnology
 
 interests:
-- Photovoltaic devices
-- Perovskites and other new materials
-- Computing
+- Material Science and Photovoltaic devices
+- Data Science
+- Astrophysics
+- Python
 
 education:
   courses:
   - course: PhD in Nanoscience and Nanotechnology
-    institution: Universitat de Valencia
-    year: Ongoing
+    institution: Universitat de Valencia (Spain)
+    year: 2020
   - course: MSc in Nanoscience and Nanotechnology
-    institution: Universitat de Valencia
+    institution: Universitat de Valencia (Spain)
     year: 2016
   - course: BSc in Chemistry
-    institution: Universidad de Granada
+    institution: Universidad de Granada (Spain)
     year: 2014
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jorge.avila@uv.es'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:sirgavila+web@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JorgeAvila_G
@@ -59,9 +61,9 @@ social:
   link: https://github.com/JorgeAvilaG
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Hi I'm Jorge!  :smile: I discovered in Valencia the world of nanoscience where I did a Master and then I started my PhD about photovoltaic devices in the group of Henk Bolink. I am fascinated about new renewable energy sources and interested in computer science. I enjoy so much competitive programming challenges!!
+Hi I'm Jorge!  :smile: I discovered in Valencia the world of Material Science where I have done my MSc and PhD on photovoltaic devices in the group of the Prof. Henk Bolink. I am fascinated about new renewable energy sources, Astrophysics and computer science. I enjoy so much competitive programming challenges!!

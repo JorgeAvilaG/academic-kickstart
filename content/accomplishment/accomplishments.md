@@ -27,21 +27,30 @@ date_format = "Jan 2006"
 #  date_start = "2013-09-01"
 #  date_end = ""
 #  description = "National competitive grant from the spanish government for undergraduate students to colaborate in a research group."
-
-  [[item]]
+[[item]]
+  organization = "Coursera-Stanford Online"
+  organization_url = ""
+  title = "Machine Learning -course"
+  url = ""
+  certificate_url = "https://github.com/JorgeAvilaG/computer-science-certificates/blob/master/JorgeAvila-Coursera-MachineLearning.pdf"
+  date_start = "2020-05-19"
+  date_end = ""
+  description = "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: Supervised learning, Unsupervised learning and Best practices in machine learning. The course also draw from numerous case studies and applications, to learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas."
+  
+[[item]]
   organization = "MECD"
   organization_url = "http://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/general/99/998758/ficha/998758-informacion-comun.html"
   title = "FPU phD grant"
   url = ""
   certificate_url = ""
   date_start = "2016-05-01"
-  date_end = ""
+  date_end = "2020-07-30"
   description = "National competitive grant from the spanish government for phD students with special focus on the development of teaching skills."
 
 [[item]]
   organization = "'Ciencia en Acción'"
   organization_url = ""
-  title = "First prize two consecutive years in National competition 'Ciencia en Acción'"
+  title = "Two consecutive years Winner of ’Science in Action’ National competition in the Mathematics category"
   url = "https://cienciaenaccion.org/"
   certificate_url = ""
   date_start = "2009-05-01"
@@ -81,12 +90,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Granada"
   organization_url = "https://thales.cica.es/estalmat/"
-  title = "Enrolled in ESTALMAT-Andalucía (2006-2008)"
-  url = ""
+  title = "Member of ESTALMAT-Andalucía"
+  url = "https://thales.cica.es/estalmat/"
   certificate_url = ""
-  date_start = "2006-01-01"
-  date_end = "2008-01-01"
-  description = "Regional competitive project about the stimulation of mathematical talent."
+  date_start = "2006-09-01"
+  date_end = "2010-07-01"
+  description = "Selective project for the detection and stimulus of mathematical talent including weekly lectures on mathematical topics."
 
   [[item]]
   organization = "Udemy"

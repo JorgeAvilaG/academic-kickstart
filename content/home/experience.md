@@ -22,11 +22,12 @@ date_format = "Jan 2006"
   company = "Universitat de Valencia"
   company_url = ""
   location = "Valencia"
-  date_start = "2016-01-01"
-  date_end = ""
+  date_start = "2016-09-01"
+  date_end = "2020-07-30"
   description = """
-  Basic and inorganic chemistry lab courses in the degree in chemistry.
+  Inorganic chemistry lab courses in the chemistry and pharmacy degrees.
   """
+  
   [[experience]]
   title = "Visiting Student"
   company = "KAUST"
