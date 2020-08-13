@@ -22,8 +22,8 @@ bio: Doctor in Material Science and Nanotechnology
 
 interests:
 - Material Science and Photovoltaic devices
-- Data Science
-- Astrophysics
+- AI
+- Quantum computing
 - Python
 
 education:
@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Hi I'm Jorge!  :smile: I discovered in Valencia the world of Material Science where I have done my MSc and PhD on photovoltaic devices in the group of the Prof. Henk Bolink. I am fascinated about new renewable energy sources, Astrophysics and computer science. I enjoy so much competitive programming challenges!!
+Hi I'm Jorge!  :smile: I discovered in Valencia the world of Material Science where I have done my MSc and PhD on photovoltaic devices in the group of the Prof. Henk Bolink. I am fascinated about new renewable energy sources, quantum computing and Artificial Intelligence. I enjoy so much competitive programming challenges!!
